@@ -1,0 +1,13 @@
+C:\C# HW-5.1 Calculator\Calculator 2.0\Calculator 2.0\bin\Debug\Calculator 2.0.exe.config
+C:\C# HW-5.1 Calculator\Calculator 2.0\Calculator 2.0\bin\Debug\Calculator 2.0.exe
+C:\C# HW-5.1 Calculator\Calculator 2.0\Calculator 2.0\bin\Debug\Calculator 2.0.pdb
+C:\C# HW-5.1 Calculator\Calculator 2.0\Calculator 2.0\obj\Debug\Calculator 2.0.csprojAssemblyReference.cache
+C:\C# HW-5.1 Calculator\Calculator 2.0\Calculator 2.0\obj\Debug\Calculator 2.0.exe
+C:\C# HW-5.1 Calculator\Calculator 2.0\Calculator 2.0\obj\Debug\Calculator 2.0.pdb
+E:\C# HWs\C# HW-5.1 Calculator\Calculator 2.0\Calculator 2.0\bin\Debug\Calculator 2.0.exe.config
+E:\C# HWs\C# HW-5.1 Calculator\Calculator 2.0\Calculator 2.0\bin\Debug\Calculator 2.0.exe
+E:\C# HWs\C# HW-5.1 Calculator\Calculator 2.0\Calculator 2.0\bin\Debug\Calculator 2.0.pdb
+E:\C# HWs\C# HW-5.1 Calculator\Calculator 2.0\Calculator 2.0\obj\Debug\Calculator 2.0.csprojAssemblyReference.cache
+E:\C# HWs\C# HW-5.1 Calculator\Calculator 2.0\Calculator 2.0\obj\Debug\Calculator 2.0.csproj.CoreCompileInputs.cache
+E:\C# HWs\C# HW-5.1 Calculator\Calculator 2.0\Calculator 2.0\obj\Debug\Calculator 2.0.exe
+E:\C# HWs\C# HW-5.1 Calculator\Calculator 2.0\Calculator 2.0\obj\Debug\Calculator 2.0.pdb
